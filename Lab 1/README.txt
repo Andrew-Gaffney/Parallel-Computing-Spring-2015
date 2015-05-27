@@ -1,0 +1,1 @@
+gs takes one of the present text files as input on the command line.  Each file represents a system of equations.
